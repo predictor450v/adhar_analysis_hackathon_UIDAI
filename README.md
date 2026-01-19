@@ -112,7 +112,7 @@ Git
 
 Step-by-Step Setup
 1. Clone the repository
-git clone https://github.com/yourusername/aadhaar-analysis.git
+git clone [https://github.com/yourusername/aadhaar-analysis.git](https://github.com/predictor450v/adhar_analysis_hackathon_UIDAI)
 cd aadhaar-analysis
 
 2. Create a virtual environment (recommended)

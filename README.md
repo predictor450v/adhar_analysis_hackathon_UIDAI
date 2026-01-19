@@ -400,10 +400,10 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 📧 Contact
-Project Maintainer: Your Name
-Email: your.email@example.com
+Project Maintainer: Ayushman sikdert
+Email: ayushmansikder.ai@gmail.com
 GitHub: https://github.com/yourusername
-LinkedIn: Your Profile
+LinkedIn: [Your Profile](https://www.linkedin.com/in/ayushman-sikder-9884382b1/)
 
 🔮 Future Enhancements
 
